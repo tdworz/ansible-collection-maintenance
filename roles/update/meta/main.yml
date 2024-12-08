@@ -4,6 +4,7 @@ galaxy_info:
   description: An Ansible role to update systems and reboot if necessary.
   license: GPL-3.0-or-later
   min_ansible_version: 2.14
+  issue_tracker_url: https://github.com/tdworz/ansible-collection-maintenance/issues
 
   platforms:
   - name: EL
