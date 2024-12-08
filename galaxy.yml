@@ -1,0 +1,21 @@
+---
+
+namespace: "tdworz"
+name: "maintenance"
+version: 0.0.1
+
+description: This collection is designed to provide a set of roles to help with the maintenance of systems.
+
+authors:
+  - Tom "tdworz" Dworzanski <tom@dworzanski.com>
+
+readme: README.md
+license:
+  - GPL-3.0-or-later
+
+tags:
+  - maintenance
+  - update
+  - reboot
+
+dependencies: {}
